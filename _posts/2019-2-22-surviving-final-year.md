@@ -1,5 +1,6 @@
 ---
 title: Surviving the final year
+comments: true
 ---
 
 I recently survived the final year of a PhD. Yes, it can be done. Look! I'm actually handing it in and moving on with my life! (Sort of).
